@@ -1,6 +1,6 @@
 # OIBSIP-
 
-Here i am making Two projects for For 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐝𝐞𝐬𝐢𝐠𝐧 internship 
+Here i am making Three projects for For 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐝𝐞𝐬𝐢𝐠𝐧 internship 
 
 #Project -1  --- Calculator using HTML,CSS, Javascript
 desc-"The Calculator project is a web application developed using HTML, CSS, and JavaScript, aimed at providing users with a versatile and user-friendly tool for performing mathematical calculations online. The calculator's interface is designed using HTML and CSS, with a clean and intuitive layout that allows users to easily input their desired calculations.
