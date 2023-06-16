@@ -15,5 +15,9 @@ live link-https://calculator-krishna.vercel.app/
 
 
 #Project -2  ---Tribute page using HTML,CSS
-desc-
-live link-
+desc- A tribute page using HTML, CSS and a beautiful gracel styleing on it !
+live link-https://tribute-page-krishna.vercel.app/
+
+#screen_shots:
+![Screenshot (219)](https://github.com/krishnagptamcs/OIBSIP-/assets/121439479/508d161e-5c15-4037-b9b5-9753265c89de)
+
